@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co.com/PNS1nrf/2.png",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/p6HJTz2/boy1.png",
+      "date": "Mar-12-24",
+      "read_time": 20 ,
+      "hashtag": ["#Technology", "#Future"],
+      "btn": "Read More"
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co.com/F07kY5y/joan-gamell-ZS67i1-HLllo-unsplash.jpg",
+      "title": "Exploring the Cosmos",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co.com/K5QqSsr/boy2.jpg",
+      "date": "2024-12-15",
+      "read_time": 11,
+      "hashtag": ["#Astronomy", "#Science"],
+      "btn": "Learn More"
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co.com/2PnTbcR/3.png",
+      "title": "The Art of Cooking",
+      "author": "Emily White",
+      "author_img": "https://i.ibb.co.com/Z2CTd0N/girl1.jpg",
+      "date": "2024-12-14",
+      "read_time": 9,
+      "hashtag": ["#Food", "#Recipes"],
+      "btn": "Get Recipe"
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co.com/nR9Wv0V/4.jpg",
+      "title": "Mastering Digital Marketing",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co.com/kqnWPmk/girl2.jpg",
+      "date": "2024-12-13",
+      "read_time": 8,
+      "hashtag": ["#Business", "#Growth"],
+      "btn": "Start Learning"
+    }
+  ]
